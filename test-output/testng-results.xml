@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="3080" started-at="2019-07-31T08:38:34Z" finished-at="2019-07-31T08:38:37Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="3080" started-at="2019-07-31T08:38:34Z" finished-at="2019-07-31T08:38:37Z">
+      <class name="restAssuredUsingGit.test.Test1PS">
+        <test-method status="PASS" signature="testCreatingNewEmployee()[pri:1, instance:restAssuredUsingGit.test.Test1PS@5b275dab]" name="testCreatingNewEmployee" duration-ms="2928" started-at="2019-07-31T08:38:34Z" finished-at="2019-07-31T08:38:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCreatingNewEmployee -->
+        <test-method status="PASS" signature="testUpdatingAnEmployee()[pri:2, instance:restAssuredUsingGit.test.Test1PS@5b275dab]" name="testUpdatingAnEmployee" duration-ms="40" started-at="2019-07-31T08:38:37Z" finished-at="2019-07-31T08:38:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUpdatingAnEmployee -->
+        <test-method status="PASS" signature="testAllEmployees()[pri:3, instance:restAssuredUsingGit.test.Test1PS@5b275dab]" name="testAllEmployees" duration-ms="41" started-at="2019-07-31T08:38:37Z" finished-at="2019-07-31T08:38:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAllEmployees -->
+        <test-method status="PASS" signature="testSpecificEmployee()[pri:4, instance:restAssuredUsingGit.test.Test1PS@5b275dab]" name="testSpecificEmployee" duration-ms="37" started-at="2019-07-31T08:38:37Z" finished-at="2019-07-31T08:38:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSpecificEmployee -->
+      </class> <!-- restAssuredUsingGit.test.Test1PS -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
